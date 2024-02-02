@@ -3,7 +3,7 @@
         "name": "Landon & Emma",
         "description": "A Landon & Emma story RPG, with a colorful cast of characters and story.",
         "url": "#/projects/landon-and-emma",
-        "icon": "assets/img/landonandemma/icon.png",
+        "icon": "assets/img/landon-and-emma/icon.png",
         "tags": ["PC", "WIP", "RPG"],
         "links": [
             { "url": "https://landon-and-emma.itch.io/the-story-of-landon-and-emma", "icon": "assets/svg/itchio.svg" }

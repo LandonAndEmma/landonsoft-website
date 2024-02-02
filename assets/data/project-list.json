@@ -1,1 +1,32 @@
-
+[
+    {
+        "name": "Landon & Emma",
+        "description": "A Landon & Emma story RPG, with a colorful cast of characters and story.",
+        "url": "#/projects/landon-and-emma",
+        "icon": "assets/img/landonandemma/icon.png",
+        "tags": ["PC", "WIP", "RPG"],
+        "links": [
+            { "url": "https://landon-and-emma.itch.io/the-story-of-landon-and-emma", "icon": "assets/svg/itchio.svg" }
+        ]
+    },
+    {
+        "name": "Apicula GUI",
+        "description": "A fork of Apicula with a GUI for people who don't know the command prompt.",
+        "url": "javascript:void(0)",
+        "icon": "assets/img/apicula/icon.png",
+        "tags": ["PC", "Python", "Tools", "2024"],
+        "links": [
+            { "url": "https://github.com/LandonBoi123/ApiculaGUI", "icon": "assets/svg/github.svg" }
+        ]
+    },
+    {
+        "name": "MySims Kart DS",
+        "description": "Mario Kart DS ROM hack including 32 new courses and a brand new roster.",
+        "url": "#/projects/mysims-kart-ds",
+        "icon": "assets/img/mysims-kart-ds/icon.png",
+        "tags": ["Nintendo DS", "ROM Hack", "2024"],
+        "links": [
+            { "url": "https://www.youtube.com/watch?v=aowVjYvDWWs", "icon": "assets/svg/youtube.svg" }
+        ]
+    }
+]

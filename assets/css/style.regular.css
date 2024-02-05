@@ -1,5 +1,5 @@
 :root {
-    --accent-color: #00fb9a;
+    --accent-color: #008afb;
     --main-white: #f5f5f5;
     --main-gray: #373737;
     --main-light-gray: #969696;
@@ -254,3 +254,12 @@ a:hover {
         display: block;
     }
 }
+
+.videos{
+    display: flex;
+    justify-content: center;
+    }
+    
+    iframe{
+      padding: 1rem;
+    }    

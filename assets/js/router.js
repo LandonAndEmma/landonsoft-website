@@ -51,6 +51,7 @@ function initRoutes() {
     template('contact', () => view("pages/contact.htm", "Contact"));
     template('youtube', () => view("pages/youtube.htm", "Videos"));
     template('projects-landon-and-emma', () => view("pages/projects/landon-and-emma.htm", "Landon & Emma"));
+    template('projects-mysims-kart-ds', () => view("pages/projects/mysims-kart-ds.htm", "MySims Kart DS"));
     template('projects-apicula-gui', () => view("pages/projects/apicula-gui.htm", "Apicula GUI"));
 
     // Define routes here

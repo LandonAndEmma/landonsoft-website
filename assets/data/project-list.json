@@ -12,7 +12,7 @@
     {
         "name": "Apicula GUI",
         "description": "A fork of Apicula with a GUI for people who don't know the command prompt.",
-        "url": "javascript:void(0)",
+        "url": "#/projects/apicula-gui",
         "icon": "assets/img/apicula/icon.png",
         "tags": ["PC", "Python", "Tools", "2024"],
         "links": [

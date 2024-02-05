@@ -49,15 +49,18 @@ function initRoutes() {
     template('home', () => view("pages/home.htm"));
     template('projects', () => view("pages/projects.htm", "Projects"));
     template('contact', () => view("pages/contact.htm", "Contact"));
+    template('youtube', () => view("pages/youtube.htm", "Videos"));
     template('projects-landon-and-emma', () => view("pages/projects/landon-and-emma.htm", "Landon & Emma"));
-    template('projects-mysims-kart-ds', () => view("pages/projects/mysims-kart-ds.htm", "MySims Kart DS"));
+    template('projects-apicula-gui', () => view("pages/projects/apicula-gui.htm", "Apicula GUI"));
 
     // Define routes here
     route('/', 'home');
     route('/contact', 'contact');
     route('/projects', 'projects');
+    route('/youtube', 'youtube');
     route('/projects/landon-and-emma', 'projects-landon-and-emma');
     route('/projects/mysims-kart-ds', 'projects-mysims-kart-ds');
+    route('/projects/apicula-gui', 'projects-apicula-gui');
 }
 
 initRoutes();

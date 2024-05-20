@@ -1,1 +1,2 @@
-A personal portfolio for me.
+A personal portfolio website for me.
+https://landonsoft.vercel.app

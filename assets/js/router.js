@@ -44,7 +44,7 @@ function initRoutes() {
     template('contact', () => view("pages/contact.htm", "Contact"));
     template('projects-landon-and-emma', () => view("pages/projects/landon-and-emma.htm", "Landon & Emma"));
     template('projects-mysims-kart-ds', () => view("pages/projects/mysims-kart-ds.htm", "MySims Kart DS"));
-    template('projects-apicula-gui', () => view("pages/projects/apicula-gui.htm", "Apicula GUI"));
+    template('projects-armedit', () => view("pages/projects/armedit.htm", "MKDS ARM9 Editor"));
     // Define routes here
     route('/', 'home');
     route('/projects', 'projects');
@@ -53,7 +53,7 @@ function initRoutes() {
     route('/contact', 'contact');
     route('/projects/landon-and-emma', 'projects-landon-and-emma');
     route('/projects/mysims-kart-ds', 'projects-mysims-kart-ds');
-    route('/projects/apicula-gui', 'projects-apicula-gui');
+    route('/projects/armedit', 'projects-armedit');
 }
 initRoutes();
 // Add event listeners

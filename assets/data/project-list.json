@@ -10,13 +10,13 @@
         ]
     },
     {
-        "name": "Apicula GUI",
-        "description": "A fork of Apicula with a GUI for people who don't know the command prompt.",
-        "url": "#/projects/apicula-gui",
-        "icon": "assets/img/apicula-gui/icon.png",
+        "name": "Mario Kart DS ARM9 Editor",
+        "description": "A Python program to edit values in Mario Kart DS's ARM9.bin code file.",
+        "url": "#/projects/armedit",
+        "icon": "assets/img/armedit/icon.png",
         "tags": ["PC", "Python", "Tools", "2024"],
         "links": [
-            { "url": "https://github.com/LandonBoi123/ApiculaGUI", "icon": "assets/svg/github.svg" }
+            { "url": "https://github.com/LandonAndEmma/MKDS-ARM9-Editor", "icon": "assets/svg/github.svg" }
         ]
     },
     {

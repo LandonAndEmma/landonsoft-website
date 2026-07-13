@@ -3,7 +3,7 @@
  * Common helper functions used throughout the application
  */
 
-const SITE_NAME = "LandonSoft";
+const SITE_NAME = "NitroSoft";
 
 /**
  * Set the page title
